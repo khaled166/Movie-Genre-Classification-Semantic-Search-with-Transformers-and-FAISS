@@ -1,12 +1,6 @@
-# Movie-Genre-Classification-Semantic-Search-with-Transformers-and-FAISS
-End-to-end NLP + ML pipeline for multi-label movie genre prediction, plot summarization using HuggingFace Transformers, and semantic retrieval powered by FAISS and sentence embeddings. Combines classical ML, modern NLP, and vector search for intelligent media analysis and recommendation.
-
-
 # 🎬 Movie Genre Prediction & Semantic Retrieval Engine
 
-This project explores a full-stack NLP + Machine Learning pipeline for **multi-label movie genre classification**, **automated plot summarization**, and **semantic search using vector databases**.
-
-It combines traditional ML techniques, state-of-the-art transformer models, and scalable retrieval systems like FAISS to power smart movie understanding and recommendations.
+End-to-end NLP + ML pipeline for multi-label movie genre prediction, plot summarization using HuggingFace Transformers, and semantic retrieval powered by FAISS and sentence embeddings. Combines classical ML, modern NLP, and vector search for intelligent media analysis and recommendation.
 
 ---
 
